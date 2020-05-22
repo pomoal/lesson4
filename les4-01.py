@@ -118,7 +118,6 @@
 # print(g)
 #
 #
-#
 # c = 8
 #
 # for el in generator(c):
